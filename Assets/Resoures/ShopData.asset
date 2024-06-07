@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d28f774b5a642744953b6b7021a9791, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  selectedIndex: 0
+  shopItems:
+  - itemName: Player 1
+    isUnlocked: 0
+    unlockCost: 0
+    unlockedLevel: 0
+    playerLevel:
+    - unlockCost: 20
+      Health: 30
+      moveSpeed: 10
+      jumpSpeed: 25
+    - unlockCost: 20
+      Health: 40
+      moveSpeed: 15
+      jumpSpeed: 30
+    - unlockCost: 40
+      Health: 60
+      moveSpeed: 20
+      jumpSpeed: 35
+  - itemName: Player 2
+    isUnlocked: 0
+    unlockCost: 200
+    unlockedLevel: 0
+    playerLevel:
+    - unlockCost: 20
+      Health: 30
+      moveSpeed: 10
+      jumpSpeed: 25
+    - unlockCost: 30
+      Health: 40
+      moveSpeed: 15
+      jumpSpeed: 30
+    - unlockCost: 40
+      Health: 60
+      moveSpeed: 20
+      jumpSpeed: 40
+  - itemName: Player 3
+    isUnlocked: 0
+    unlockCost: 300
+    unlockedLevel: 0
+    playerLevel:
+    - unlockCost: 30
+      Health: 20
+      moveSpeed: 15
+      jumpSpeed: 25
+    - unlockCost: 40
+      Health: 40
+      moveSpeed: 20
+      jumpSpeed: 30
+    - unlockCost: 50
+      Health: 60
+      moveSpeed: 25
+      jumpSpeed: 35

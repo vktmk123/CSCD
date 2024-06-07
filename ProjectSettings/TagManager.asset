@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Ground
+  - gioihan
+  - phat_hien
+  - Bullet Enemy
+  - Score
+  - Coin
+  - Bomb
+  - Box
+  - Building
+  - Building_1
+  - Trap
+  - changeDetectionPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Bullet
+  - Enemy
+  - Player
+  - Phat_hien
+  - Building_1
+  - Box
+  - BackGround
+  - Trap
+  - Contin
+  - Enemy bullet
+  - Building_2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgound
+    uniqueID: 3428546643
+    locked: 0
+  - name: player
+    uniqueID: 3841134263
+    locked: 0
+  - name: land
+    uniqueID: 3467011485
+    locked: 0
+  - name: Box
+    uniqueID: 165108361
+    locked: 0
+  - name: Building_1
+    uniqueID: 1231154725
+    locked: 0
+  - name: water
+    uniqueID: 4147206687
+    locked: 0
+  - name: Bullet
+    uniqueID: 3544871573
+    locked: 0
+  - name: Enemy
+    uniqueID: 1173539663
+    locked: 0
+  - name: Coin
+    uniqueID: 3695059007
+    locked: 0
+  - name: Trap
+    uniqueID: 4269238733
+    locked: 0
